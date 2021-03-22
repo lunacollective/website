@@ -86,4 +86,8 @@ export default {
   tailwindcss: {
     jit: true,
   },
+
+  generate: {
+    fallback: '404.html'
+  }
 }
