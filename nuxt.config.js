@@ -17,8 +17,8 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'An army of trans girls named \'Luna\''
-      }
+        content: "An army of trans girls named 'Luna'",
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
