@@ -6,7 +6,7 @@
     <a
       class="btn-indigo mx-4"
       href="https://matrix.to/#/#lunacollective:the-apothecary.club"
-      >Matrix</a
+      >Join us</a
     >
   </div>
 </template>
