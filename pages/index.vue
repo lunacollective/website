@@ -4,6 +4,8 @@
       <Logo />
       <Title />
     </div>
+    <Subtitle />
+    <Links />
   </div>
 </template>
 

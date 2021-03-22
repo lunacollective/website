@@ -1,6 +1,6 @@
 # The Luna Collective
 
-This is the website for [The Luna Collective](https://lunacollective.org).
+We're a small army of trans girls named "Luna" hellbent on taking over the world!
 
 ## Build Setup
 

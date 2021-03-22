@@ -1,5 +1,5 @@
 <template>
-  <div class="title">
+  <div class="title text-center">
     <h1
       class="sm:text-6xl font-bold font-sans text-2xl text-gray-900 dark:text-white"
     >
