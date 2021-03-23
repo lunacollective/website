@@ -20,8 +20,8 @@
       <div class="body text-gray-900 dark:text-white font-sans text-xl">
         <p>
           The <span class="text-purple-700">Luna</span> Collective is a small
-          army of transgender girls who have "Luna" in their names. We sort of,
-          y'know, want to make stuff for people.
+          army of transgender girls who have "Luna" in their names. We kind of
+          want to make stuff for people. We think they'd like it, y'know?
         </p>
         <p class="pt-4">
           So far, we only have four members, who are listed below:
