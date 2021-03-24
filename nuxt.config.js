@@ -53,7 +53,7 @@ export default {
   pwa: {
     manifest: {
       lang: 'en',
-      title: 'The Luna Collective',
+      name: 'The Luna Collective',
     },
   },
 
