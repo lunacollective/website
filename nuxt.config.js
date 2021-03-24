@@ -54,6 +54,9 @@ export default {
     manifest: {
       lang: 'en',
     },
+    meta: {
+      title: 'The Luna Collective',
+    },
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
