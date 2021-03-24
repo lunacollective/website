@@ -24,14 +24,15 @@
           want to make stuff for people. We think they'd like it, y'know?
         </p>
         <p class="pt-4">
-          So far, we only have three members, who are listed below:
+          So far, we only have four members, who are listed below:
         </p>
         <div
-          class="grid grid-cols-3 gap-4 text-gray-900 dark:text-white font-sans font-medium text-xl pt-4"
+          class="grid grid-cols-4 gap-4 text-gray-900 dark:text-white font-sans font-medium text-xl pt-4"
         >
           <div>LunaIsNotABoy</div>
           <div>Luna Frankland</div>
           <div>LunaRin</div>
+          <div>SkaiLuna</div>
           <div>
             <img
               src="~/assets/img/profiles/lunaisnotaboy.png"
@@ -50,9 +51,16 @@
               class="w-24 h-24 mx-auto rounded-full"
             />
           </div>
+          <div>
+            <img
+              src="~/assets/img/profiles/skailuna.png"
+              class="w-24 h-24 mx-auto rounded-full"
+            />
+          </div>
           <div>(she/they)</div>
           <div>(she/her)</div>
           <div>(she/her)</div>
+          <div>(gey/gem)</div>
         </div>
       </div>
     </div>
