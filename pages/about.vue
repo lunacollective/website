@@ -29,7 +29,7 @@
         <div
           class="grid grid-cols-4 gap-4 text-gray-900 dark:text-white font-sans font-medium text-xl pt-4"
         >
-          <div>LunaIsNotABoy</div>
+          <div>Luna Nova</div>
           <div>Luna Frankland</div>
           <div>LunaRin</div>
           <div>SkaiLuna</div>
